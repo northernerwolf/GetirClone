@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable-v24/tab_gift.xml" value="0.117" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/account_2.xml" value="0.2203125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/accountselectergetir.xml" value="0.1215" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/add_addres.xml" value="0.117" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/add_selector.xml" value="0.2203125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/akkount_selector.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/back_arrow.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/giftselectrgetir.xml" value="0.1215" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/home_1.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/home_2.xml" value="0.2203125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/home_selector.xml" value="0.2203125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/homeselectgtir.xml" value="0.1215" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/ic__voice_24.xml" value="0.117" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/ic_account.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/ic_baseline_keyboard_arrow_right_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/ic_clear_24.xml" value="0.117" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/ic_gift.xml" value="0.16" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/ic_gift2.xml" value="0.117" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/ic_gps_24.xml" value="0.117" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/ic_heart.xml" value="0.117" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/ic_home.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/ic_home1.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/ic_home_24.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/ic_home_nav.xml" value="0.2203125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/ic_people_nav.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/ic_person_24.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/ic_search.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/menu_24.xml" value="0.117" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/minus_button.xml" value="0.1215" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/minus_product.xml" value="0.1215" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/next_card_circle.xml" value="0.1215" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/next_circle.xml" value="0.11" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/product_circle.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/search_1.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/search_circle.xml" value="0.2111111111111111" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/search_next.xml" value="0.2111111111111111" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/searchselectrgetir.xml" value="0.1215" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/drawable/toolbar_top.xml" value="0.2111111111111111" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/font/amarante.xml" value="0.23076923076923078" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout-v23/activity_item_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout-v23/toolbar_more_address.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout-v28/item_getir_product.xml" value="0.5513196480938416" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout-v28/item_getir_products.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout-v28/toolbar_add_addresses.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout-v28/toolbar_itemdetail.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout-v28/toolbar_more_addres.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout-v28/toolbar_more_address.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_account.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_add_address.xml" value="0.34814814814814815" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_addresses.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_gift.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_home_m.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_item_detail.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_item_getir.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_main_food.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_main_getir.xml" value="0.5" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_main_local.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_main_more.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_main_taksi.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_main_water.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_more_main.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_next.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_onboarding.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_saerch.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_search.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/activity_start.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/auto_imageslider_more.xml" value="0.2710926694329184" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/bottam_navigation_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_accont_getir.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_account.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_account_food.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_account_local.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_account_taksi.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_account_water.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_announcement.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_fruits.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_gift.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_gift_food.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_gift_getir.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_home_getir.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_home_local.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_home_products.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_home_taksi.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_more_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_new_product.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_promotions.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_search_food.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_search_gerir.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_search_local.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_search_water.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/fragment_special_offer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/include_bottom_toolbar.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/item_getir_main.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/item_getir_products.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/item_getirmore_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/next_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/slider_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/toolbar_add_address.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/toolbar_addresses.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/toolbar_itemdetails.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/toolbar_main.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/toolbar_main_more.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/toolbar_more_address.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/toolbar_next_page.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/toolbar_products.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/toolbar_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/toolbar_search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/toolbar_search_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/layout/toolbar_topbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/menu/item_bottom_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Getir/app/src/main/res/menu/menu_taxi.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

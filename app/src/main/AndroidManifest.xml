@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.getir">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Getir">
+        <activity
+            android:name=".getir.register.OnboardingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".getir.tabfragments.ItemDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.AddAddressActivity"
+            android:exported="false" />
+        <activity
+            android:name=".getir.ItemGetirActivity"
+            android:exported="false" />
+        <activity
+            android:name=".getirwater.MainActivityWater"
+            android:exported="false" />
+        <activity
+            android:name=".getirtaksi.MainActivityTaksi"
+            android:exported="false" />
+        <activity
+            android:name=".getirfood.MainActivityFood"
+            android:exported="false" />
+        <activity
+            android:name=".getirlocals.MainActivityLocal"
+            android:exported="false" />
+        <activity
+            android:name=".getir.MainActivityGetir"
+            android:exported="false" />
+        <activity
+            android:name=".getirmore.MainActivityMore"
+            android:exported="false" />
+        <activity
+            android:name=".activity.SearchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.AddressesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NextActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".StartActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:resource="@array/preloaded_fonts"
+            android:value="AIzaSyDgSB-_a9-Z5QXXswe_kIQfYp9kGDNjKuo" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/actionBarSize"
+    android:id="@+id/toollanguage"
+    android:background="@color/getir">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_marginEnd="15dp"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/baloo_chettan"
+            android:text="getir"
+            android:textColor="@color/gold"
+            android:textSize="20sp"
+            android:textStyle="normal"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/baloo_chettan"
+            android:text="more"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="normal"/>
+
+    </LinearLayout>
+
+</Toolbar>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".getir.GiftGetirFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <include layout="@layout/toolbar_main"/>
+
+        <com.google.android.material.tabs.TabLayout
+            android:layout_width="match_parent"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_height="?android:attr/actionBarSize"
+            android:id="@+id/tablayout_gift"
+            app:tabMode="fixed"
+            app:tabGravity="fill"
+            android:backgroundTint="@color/white"
+            app:tabIndicatorGravity="center"
+            app:tabSelectedTextColor="@color/getir"
+            app:tabIndicatorAnimationMode="elastic"
+            app:tabIndicator="@drawable/tab_gift"
+            android:layout_marginBottom="5dp"/>
+        <androidx.viewpager2.widget.ViewPager2
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/viewpager2"/>
+
+    </LinearLayout>
+
+</FrameLayout>

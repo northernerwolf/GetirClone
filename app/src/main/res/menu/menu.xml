@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/homeselectgtir"
+        android:title=""/>
+    <item
+        android:enabled="true"
+        android:id="@+id/search"
+        android:icon="@drawable/searchselectrgetir"
+        android:title=""/>
+    <item
+        android:title=""/>
+    <item
+        android:enabled="true"
+        android:id="@+id/profil"
+        android:icon="@drawable/accountselectergetir"
+        android:title=""/>
+    <item
+        android:enabled="true"
+        android:id="@+id/gift"
+        android:icon="@drawable/giftselectrgetir"
+        android:title=""/>
+
+</menu>

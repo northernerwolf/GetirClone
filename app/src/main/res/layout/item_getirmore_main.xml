@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <androidx.cardview.widget.CardView
+        android:id="@+id/item_main_getirmore"
+        android:layout_width="180dp"
+        android:layout_height="80dp"
+        app:cardCornerRadius="10dp"
+        app:cardUseCompatPadding="true"
+        app:cardMaxElevation="5dp"
+        app:cardElevation="5dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/image_main_more"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"/>
+            <TextView
+                android:layout_centerVertical="true"
+                android:layout_alignParentEnd="true"
+                android:id="@+id/text_title_more"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Products"
+                android:textSize="10sp"
+                android:textColor="@color/black"
+                android:layout_marginEnd="10dp"/>
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+
+
+
+</LinearLayout>

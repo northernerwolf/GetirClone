@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bacground"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".getir.tabfragments.HomeProductsFragment">
+
+    <LinearLayout
+        android:id="@+id/liner_lay"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <include layout="@layout/toolbar_products"/>
+        <com.google.android.material.tabs.TabLayout
+            android:backgroundTint="@color/tab_colour"
+            android:background="@color/tab_colour"
+            app:tabMode="scrollable"
+            app:tabGravity="fill"
+            android:layout_width="match_parent"
+            app:tabIndicatorGravity="bottom"
+            app:tabIndicatorAnimationMode="elastic"
+            android:layout_height="?android:attr/actionBarSize"
+            app:tabIndicatorColor="@color/gold"
+            android:scrollbarAlwaysDrawHorizontalTrack="true"
+            app:tabTextColor="@color/white"
+            android:id="@+id/tab_layout"/>
+
+        <androidx.viewpager2.widget.ViewPager2
+            android:background="@color/bacground"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/view_pager2"/>
+    </LinearLayout>
+
+</FrameLayout>
