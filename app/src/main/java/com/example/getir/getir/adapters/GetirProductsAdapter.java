@@ -105,8 +105,6 @@ public class GetirProductsAdapter  extends RecyclerView.Adapter<GetirProductsAda
                             }
                         });
 
-
-
                     }
 
             });
